@@ -1,0 +1,58 @@
+
+========== SLIDE 1 ==========
+01 | Name: deck_title | Type: TEXT_BOX (17) | Left: 548640 | Top: 457200 | Width: 11091672 | Height: 640080 | Text: NovaRetail — Quarterly Business Review
+02 | Name: subtitle_1 | Type: TEXT_BOX (17) | Left: 548640 | Top: 1078992 | Width: 11091672 | Height: 365760 | Text: [FILL: Quarter & review date — e.g. “Q2 2026 — Board Review, July 2026”]
+03 | Name: kpi1_box | Type: AUTO_SHAPE (1) | Left: 548640 | Top: 1874520 | Width: 3453384 | Height: 1417320 | Text: 
+04 | Name: kpi1_value | Type: TEXT_BOX (17) | Left: 685800 | Top: 2039112 | Width: 3179064 | Height: 640080 | Text: [VALUE]
+05 | Name: kpi1_label | Type: TEXT_BOX (17) | Left: 685800 | Top: 2743200 | Width: 3179064 | Height: 502920 | Text: [FILL: KPI label — e.g. Total Revenue]
+06 | Name: kpi2_box | Type: AUTO_SHAPE (1) | Left: 4367784 | Top: 1874520 | Width: 3453384 | Height: 1417320 | Text: 
+07 | Name: kpi2_value | Type: TEXT_BOX (17) | Left: 4504944 | Top: 2039112 | Width: 3179064 | Height: 640080 | Text: [VALUE]
+08 | Name: kpi2_label | Type: TEXT_BOX (17) | Left: 4504944 | Top: 2743200 | Width: 3179064 | Height: 502920 | Text: [FILL: KPI label — e.g. YoY Revenue Growth]
+09 | Name: kpi3_box | Type: AUTO_SHAPE (1) | Left: 8186928 | Top: 1874520 | Width: 3453384 | Height: 1417320 | Text: 
+10 | Name: kpi3_value | Type: TEXT_BOX (17) | Left: 8324088 | Top: 2039112 | Width: 3179064 | Height: 640080 | Text: [VALUE]
+11 | Name: kpi3_label | Type: TEXT_BOX (17) | Left: 8324088 | Top: 2743200 | Width: 3179064 | Height: 502920 | Text: [FILL: KPI label — e.g. Blended Customer NPS]
+12 | Name: summary_label | Type: TEXT_BOX (17) | Left: 548640 | Top: 3520440 | Width: 9235440 | Height: 365760 | Text: EXECUTIVE SUMMARY
+13 | Name: summary_text | Type: TEXT_BOX (17) | Left: 548640 | Top: 3886200 | Width: 9235440 | Height: 2331720 | Text: [FILL: 3–4 sentence executive summary — call out overall performance, the standout region, and the single biggest risk to watch this quarter.]
+14 | Name: icon_1 | Type: AUTO_SHAPE (1) | Left: 10058400 | Top: 3886200 | Width: 1581912 | Height: 1581912 | Text: 
+15 | Name: icon_1_label | Type: TEXT_BOX (17) | Left: 10195560 | Top: 4050792 | Width: 1307592 | Height: 1252728 | Text: ICON |  | Pick the icon that | best represents this | quarter's overall story
+16 | Name: footer_1 | Type: TEXT_BOX (17) | Left: 548640 | Top: 6510528 | Width: 7315200 | Height: 274320 | Text: NovaRetail Quarterly Business Review  —  Capstone Template
+17 | Name: page_num_1 | Type: TEXT_BOX (17) | Left: 11274552 | Top: 6510528 | Width: 365760 | Height: 274320 | Text: 1
+
+========== SLIDE 2 ==========
+01 | Name: title_2 | Type: TEXT_BOX (17) | Left: 548640 | Top: 365760 | Width: 11091672 | Height: 868680 | Text: [FILL: insight-led headline — e.g. “APAC Leads Growth While Latin America Declines”]
+02 | Name: chart_performance | Type: AUTO_SHAPE (1) | Left: 548640 | Top: 1417320 | Width: 6675120 | Height: 4800600 | Text: 
+03 | Name: chart_performance_label | Type: TEXT_BOX (17) | Left: 685800 | Top: 1581912 | Width: 6400800 | Height: 4471416 | Text: CHART |  | Insert your chart here. | Suggested: grouped/stacked | bar chart of Revenue by | Region across quarters | (Regional_Performance sheet)
+04 | Name: insights_performance | Type: TEXT_BOX (17) | Left: 7543800 | Top: 1417320 | Width: 4096512 | Height: 3474720 | Text: [FILL: 3–4 bullet insights on revenue, units sold, returns rate or marketing spend — call out the strongest and weakest region.]
+05 | Name: icon_2 | Type: AUTO_SHAPE (1) | Left: 7543800 | Top: 5166360 | Width: 1325880 | Height: 1051560 | Text: 
+06 | Name: icon_2_label | Type: TEXT_BOX (17) | Left: 7680960 | Top: 5330952 | Width: 1051560 | Height: 722376 | Text: ICON |  | Pick the icon for | growth / performance
+07 | Name: footer_2 | Type: TEXT_BOX (17) | Left: 548640 | Top: 6510528 | Width: 7315200 | Height: 274320 | Text: NovaRetail Quarterly Business Review  —  Capstone Template
+08 | Name: page_num_2 | Type: TEXT_BOX (17) | Left: 11274552 | Top: 6510528 | Width: 365760 | Height: 274320 | Text: 2
+
+========== SLIDE 3 ==========
+01 | Name: title_3 | Type: TEXT_BOX (17) | Left: 548640 | Top: 365760 | Width: 11091672 | Height: 868680 | Text: [FILL: insight-led headline — e.g. “Customer Satisfaction Diverges Sharply by Region”]
+02 | Name: chart_customer | Type: AUTO_SHAPE (1) | Left: 548640 | Top: 1417320 | Width: 6675120 | Height: 4800600 | Text: 
+03 | Name: chart_customer_label | Type: TEXT_BOX (17) | Left: 685800 | Top: 1581912 | Width: 6400800 | Height: 4471416 | Text: CHART |  | Insert your chart here. | Suggested: line chart of | NPS (or CSAT) by Region | over time | (Customer_Experience sheet)
+04 | Name: insights_customer | Type: TEXT_BOX (17) | Left: 7543800 | Top: 1417320 | Width: 4096512 | Height: 3474720 | Text: [FILL: 3–4 bullet insights on NPS, CSAT, delivery times or support tickets — note which region is improving and which is deteriorating.]
+05 | Name: icon_3 | Type: AUTO_SHAPE (1) | Left: 7543800 | Top: 5166360 | Width: 1325880 | Height: 1051560 | Text: 
+06 | Name: icon_3_label | Type: TEXT_BOX (17) | Left: 7680960 | Top: 5330952 | Width: 1051560 | Height: 722376 | Text: ICON |  | Pick the icon for | customer experience
+07 | Name: footer_3 | Type: TEXT_BOX (17) | Left: 548640 | Top: 6510528 | Width: 7315200 | Height: 274320 | Text: NovaRetail Quarterly Business Review  —  Capstone Template
+08 | Name: page_num_3 | Type: TEXT_BOX (17) | Left: 11274552 | Top: 6510528 | Width: 365760 | Height: 274320 | Text: 3
+
+========== SLIDE 4 ==========
+01 | Name: title_4 | Type: TEXT_BOX (17) | Left: 548640 | Top: 365760 | Width: 11091672 | Height: 868680 | Text: [FILL: insight-led headline — e.g. “Supply Chain Strain Threatens Two Regions”]
+02 | Name: chart_risk | Type: AUTO_SHAPE (1) | Left: 548640 | Top: 1417320 | Width: 6675120 | Height: 4800600 | Text: 
+03 | Name: chart_risk_label | Type: TEXT_BOX (17) | Left: 685800 | Top: 1581912 | Width: 6400800 | Height: 4471416 | Text: CHART |  | Insert your chart here. | Suggested: bar or line chart | of Stockout Rate or Fraud | Incidents by Region | (Operational_Risk sheet)
+04 | Name: insights_risk | Type: TEXT_BOX (17) | Left: 7543800 | Top: 1417320 | Width: 4096512 | Height: 3474720 | Text: [FILL: 3–4 bullet insights identifying the top operational risks — e.g. stockouts, warehouse capacity, slow returns, fraud trend.]
+05 | Name: icon_4 | Type: AUTO_SHAPE (1) | Left: 7543800 | Top: 5166360 | Width: 1325880 | Height: 1051560 | Text: 
+06 | Name: icon_4_label | Type: TEXT_BOX (17) | Left: 7680960 | Top: 5330952 | Width: 1051560 | Height: 722376 | Text: ICON |  | Pick the icon for | risk / alert
+07 | Name: footer_4 | Type: TEXT_BOX (17) | Left: 548640 | Top: 6510528 | Width: 7315200 | Height: 274320 | Text: NovaRetail Quarterly Business Review  —  Capstone Template
+08 | Name: page_num_4 | Type: TEXT_BOX (17) | Left: 11274552 | Top: 6510528 | Width: 365760 | Height: 274320 | Text: 4
+
+========== SLIDE 5 ==========
+01 | Name: title_5 | Type: TEXT_BOX (17) | Left: 548640 | Top: 457200 | Width: 11091672 | Height: 731520 | Text: Recommended Actions & Next Steps
+02 | Name: recommendations_text | Type: TEXT_BOX (17) | Left: 548640 | Top: 1463040 | Width: 6675120 | Height: 4206240 | Text: [FILL: 3–4 recommended actions, each tied to a specific insight or risk from the earlier slides. Lead each bullet with a bold action verb — e.g. “Expand APAC warehouse capacity by Q4”.]
+03 | Name: icon_5 | Type: AUTO_SHAPE (1) | Left: 7589520 | Top: 1463040 | Width: 1463040 | Height: 1463040 | Text: 
+04 | Name: icon_5_label | Type: TEXT_BOX (17) | Left: 7726680 | Top: 1627632 | Width: 1188720 | Height: 1133856 | Text: ICON |  | Pick the icon for | action / recommendation
+05 | Name: closing_statement | Type: TEXT_BOX (17) | Left: 548640 | Top: 5897880 | Width: 9235440 | Height: 457200 | Text: [FILL: one-line forward-looking statement or call to action for the leadership team.]
+06 | Name: footer_5 | Type: TEXT_BOX (17) | Left: 548640 | Top: 6510528 | Width: 7315200 | Height: 274320 | Text: NovaRetail Quarterly Business Review  —  Capstone Template
+07 | Name: page_num_5 | Type: TEXT_BOX (17) | Left: 11274552 | Top: 6510528 | Width: 365760 | Height: 274320 | Text: 5
